@@ -1,1 +1,3 @@
-fichero 1
+fichero 1.
+Editamos el fichero por completo.
+IAW ASIR2.
